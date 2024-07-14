@@ -7,8 +7,8 @@
 
 ## references, snippets
 
-- [Qt snippets (local)](https://github.com/strugamano/strugamano/useful/tree/main/useful/Qt.md)
-- [SQL reference (local)](https://github.com/strugamano/strugamano/useful/tree/main/useful/SQL.md)
+- [Qt snippets (local)](https://github.com/strugamano/strugamano/tree/main/useful/Qt.md)
+- [SQL reference (local)](https://github.com/strugamano/strugamano/tree/main/useful/SQL.md)
 
 ## tutorials, guides
 
