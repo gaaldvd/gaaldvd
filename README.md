@@ -2,14 +2,14 @@
 
 ## Geology
 
-My main focus is the development of applications for various fields of geoscience, from simple solutions to more complex software.
+I mainly focus on developing applications for various fields of geoscience, from simple solutions to more complex software.
 
 ## Contact
 
-You can reach me through [e-mail](mailto:strugamano@proton.me) if you have any questions regarding my repositories or if you'd like to collaborate on something.
+You can reach me through [e-mail](mailto:gaaldavid@tuta.io) if you have any questions about my repositories or if you'd like to collaborate on something.
 
-strugamano @ [stackoverflow](https://stackoverflow.com/users/19555447/strugamano), [replit](https://replit.com/@strugamano)
+Find me @ [stackoverflow](https://stackoverflow.com/users/19555447/gaaldavid), [replit](https://replit.com/@gaaldavid)
 
 ## etc
 
-- [useful things (cheat sheets, references, guides, tutorials, tools and such)](https://github.com/strugamano/strugamano/tree/main/useful.md)
+- [useful things (cheat sheets, references, guides, tutorials, tools and such)](https://github.com/realgaaldavid/realgaaldavid/tree/main/useful.md)
