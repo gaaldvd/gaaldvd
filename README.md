@@ -12,4 +12,4 @@ Find me @ [stackoverflow](https://stackoverflow.com/users/19555447/gaaldavid), [
 
 ## etc
 
-- [useful things (cheat sheets, references, guides, tutorials, tools and such)](https://github.com/gaaldvd/gaaldvd/tree/main/useful.md)
+- [useful things (cheat sheets, references, guides, tutorials, tools and such)](useful.md)
