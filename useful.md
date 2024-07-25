@@ -2,13 +2,13 @@
 
 ## cheat sheets
 
-- markdown: [local](https://github.com/realgaaldavid/realgaaldavid/tree/main/useful/markdown-cheat-sheet.md), [external](https://www.markdownguide.org/cheat-sheet/)
-- git: [local](https://github.com/realgaaldavid/realgaaldavid/tree/main/useful/GitCheatSheet.pdf), [external](https://education.github.com/git-cheat-sheet-education.pdf)
+- markdown: [local](https://github.com/gaaldvd/gaaldvd/tree/main/useful/markdown-cheat-sheet.md), [external](https://www.markdownguide.org/cheat-sheet/)
+- git: [local](https://github.com/gaaldvd/gaaldvd/tree/main/useful/GitCheatSheet.pdf), [external](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## references, snippets
 
-- [Qt snippets (local)](https://github.com/realgaaldavid/realgaaldavid/tree/main/useful/Qt.md)
-- [SQL reference (local)](https://github.com/realgaaldavid/realgaaldavid/tree/main/useful/SQL.md)
+- [Qt snippets (local)](https://github.com/gaaldvd/gaaldvd/tree/main/useful/Qt.md)
+- [SQL reference (local)](https://github.com/gaaldvd/gaaldvd/tree/main/useful/SQL.md)
 
 ## tutorials, guides
 
