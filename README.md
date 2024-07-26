@@ -8,7 +8,7 @@ I mainly focus on developing applications for various fields of geoscience, from
 
 You can reach me through [e-mail](mailto:gaaldavid@tuta.io) if you have any questions about my repositories or if you'd like to collaborate on something.
 
-Find me @ [stackoverflow](https://stackoverflow.com/users/19555447/gaaldavid), [replit](https://replit.com/@gaaldavid)
+Find me @ [stackoverflow](https://stackoverflow.com/users/19555447/gaaldavid), [replit](https://replit.com/@gaaldvd)
 
 ## etc
 
