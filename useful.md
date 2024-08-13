@@ -4,6 +4,7 @@
 
 - markdown: [local](useful/markdown-cheat-sheet.md), [external](https://www.markdownguide.org/cheat-sheet/)
 - git: [local](useful/GitCheatSheet.pdf), [external](https://education.github.com/git-cheat-sheet-education.pdf)
+- nano: [local](useful/NanoCheatSheet.pdf), [external](https://www.nano-editor.org/dist/latest/cheatsheet.html)
 
 ## references, snippets
 
