@@ -14,8 +14,8 @@ Find me @ [stackoverflow](https://stackoverflow.com/users/19555447/gaaldavid), [
 
 ## etc
 
-- Pirating :pirate_flag:
-  - [palermo-grab](https://github.com/gaaldvd/palermo-grab): Download content from Teca Digitale (Biblioteca comunale di Palermo Leonardo Sciascia)
 - Programming tutorials
   - [programming-in-c](https://github.com/gaaldvd/programming-in-c): Exercises from Stephen G. Kochan's book Programming in C, 3rd Edition (2005)
+- P*r*t*ng :pirate_flag:
+  - [palermo-grab](https://github.com/gaaldvd/palermo-grab): Download content from Teca Digitale (Biblioteca comunale di Palermo Leonardo Sciascia)
 - [Useful things (cheat sheets, references, guides, tutorials, tools and such)](useful.md)
