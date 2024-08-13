@@ -1,7 +1,5 @@
 # The Oak
 
-testing, testing
-
 ## Geology
 
 I mainly focus on developing applications for various fields of geoscience, from simple solutions to more complex software.
