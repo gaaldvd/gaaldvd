@@ -1,4 +1,4 @@
-# The Oak :deciduous_tree: :flag_hungary:
+# The Oak :deciduous_tree: :hungary:
 
 ## Geology
 
