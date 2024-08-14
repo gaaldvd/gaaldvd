@@ -51,6 +51,6 @@
 
 ## icons
 
-- [Tux](useful/config/icons/tux.png)
+- [Tux](useful/icons/tux.png)
 - [Flight Dark](https://store.kde.org/p/2068653)
 - [Flight Light](https://store.kde.org/p/2068651)
