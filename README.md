@@ -1,4 +1,4 @@
-# The Oak
+# The Oak :deciduous_tree: :flag_hungary:
 
 ## Geology
 
@@ -6,7 +6,7 @@ I mainly focus on developing applications for various fields of geoscience, from
 
 ## Contact
 
-You can reach me through e-mail (gaaldavid[at]tuta.io) if you have any questions about my repositories or if you'd like to collaborate on something.
+You can reach me through [e-mail](mailto:gaaldavid[at]tuta.io?subject=[GitHub]%20general%20question) if you have any questions about my repositories or if you'd like to collaborate on something.
 
 Find me @ [stackoverflow](https://stackoverflow.com/users/19555447/gaaldavid), [replit](https://replit.com/@gaaldvd)
 
