@@ -1,0 +1,9 @@
+~/.config/
+    mc/
+    micro/
+    nano/ (install nano-syntax-highlighting)
+    nomacs/
+    smplayer/
+    katerc
+
+conky: the config file can be placed anywhere (use with the right autostart argument)

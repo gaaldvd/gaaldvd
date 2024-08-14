@@ -1,0 +1,11 @@
+{
+    "colorcolumn": 80,
+    "colorscheme": "zenburn",
+    "diffgutter": true,
+    "hlsearch": true,
+    "hltrailingws": true,
+    "scrollbar": true,
+    "softwrap": true,
+    "tabmovement": true,
+    "tabstospaces": true
+}

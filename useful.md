@@ -1,13 +1,19 @@
 # Useful things
 
+## configs
+
+- files: [conky](useful/config/.conky.conf), [kate](useful/config/katerc), [mc](useful/config/mc/ini), [micro](useful/config/micro/settings.json), [nano](useful/config/nano/nanorc), [nomacs](useful/config/nomacs/Image%20Lounge.conf), [smplayer](useful/config/smplayer/smplayer.ini)
+- [howto](useful/config/howto)
+
 ## cheat sheets
 
-- markdown: [local](useful/markdown-cheat-sheet.md), [external](https://www.markdownguide.org/cheat-sheet/)
-- git: [local](useful/GitCheatSheet.pdf), [external](https://education.github.com/git-cheat-sheet-education.pdf)
-- nano: [local](useful/NanoCheatSheet.pdf), [external](https://www.nano-editor.org/dist/latest/cheatsheet.html)
+- markdown: [local](useful/cheatsheets/markdown-cheat-sheet.md), [external](https://www.markdownguide.org/cheat-sheet/)
+- git: [local](useful/cheatsheets/GitCheatSheet.pdf), [external](https://education.github.com/git-cheat-sheet-education.pdf)
+- nano: [local](useful/cheatsheets/NanoCheatSheet.pdf), [external](https://www.nano-editor.org/dist/latest/cheatsheet.html)
 
-## references, snippets
+## references, snippets, scripts
 
+- [ascii script](useful/scripts/ascii.py) to list valid ASCII characters
 - [Qt snippets (local)](useful/Qt.md)
 - [SQL reference (local)](useful/SQL.md)
 
@@ -28,5 +34,23 @@
 
 ## tools
 
+### editors, IDEs, shells
+
+- [micro](https://micro-editor.github.io/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+- [IPython](https://ipython.org/)
+
+### environments
+
 - [Pipenv: Python Dev Workflow for Humans](https://pipenv.pypa.io/en/latest/)
+
+### etc
+
 - [HTML color picker (W3S)](https://www.w3schools.com/colors/colors_picker.asp)
+
+## icons
+
+- [Tux](useful/config/icons/tux.png)
+- [Flight Dark](https://store.kde.org/p/2068653)
+- [Flight Light](https://store.kde.org/p/2068651)

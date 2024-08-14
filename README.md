@@ -20,4 +20,4 @@ Find me @ [stackoverflow](https://stackoverflow.com/users/19555447/gaaldavid), [
   - [palermo-grab](https://github.com/gaaldvd/palermo-grab): Download content from Teca Digitale (Biblioteca comunale di Palermo Leonardo Sciascia)
 
 
-- [Useful things (cheat sheets, references, guides, tutorials, tools and such)](useful.md)
+- [Useful things (config files, references, tools and such)](useful.md)
