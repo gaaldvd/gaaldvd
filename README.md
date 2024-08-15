@@ -2,7 +2,7 @@
 
 ## Geology
 
-I mainly focus on developing applications for various fields of geoscience, from simple solutions to more complex software.
+I mainly focus on developing libraries and applications for various fields of geoscience, from simple solutions to more complex software.
 
 ## Contact
 
