@@ -1,7 +1,5 @@
 # The Oak :deciduous_tree: :hungary:
 
-testing, testing
-
 ## Geology
 
 I mainly focus on developing libraries and applications for various fields of geoscience, from simple solutions to more complex software.
