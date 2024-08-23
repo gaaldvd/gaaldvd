@@ -1,4 +1,4 @@
-# The Oak :deciduous_tree: :hungary: <img src="res/hungary.png" height="50">
+# <img src="res/hungary.png" height="40"> :deciduous_tree: :hungary:
 
 ## Geology
 
