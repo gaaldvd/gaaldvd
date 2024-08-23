@@ -8,7 +8,7 @@ I mainly focus on developing libraries and applications for various fields of ge
 
 You can reach me through [e-mail](mailto:gaaldavid[at]tuta.io?subject=[GitHub]%20general%20question) if you have any questions about my repositories or if you'd like to collaborate on something.
 
-Find me @ [stackoverflow](https://stackoverflow.com/users/19555447/gaaldavid), [replit](https://replit.com/@gaaldvd)
+Find me @ [stackoverflow](https://stackoverflow.com/users/19555447/gaaldvd), [replit](https://replit.com/@gaaldvd)
 
 ## etc
 
