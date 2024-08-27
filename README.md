@@ -35,4 +35,4 @@ I mainly focus on developing libraries and applications for various fields of ge
 #### Under development
 
 - [libgen-tools](https://github.com/gaaldvd/libgen-tools): A Python library for downloading content from [Library Genesis](https://libgen.is/).
-- [libgenx](https://github.com/gaaldvd/libgenx): A simple GUI application to use [Library Genesis](https://libgen.is/).
+- [libgenx](https://github.com/gaaldvd/libgenx): A simple GUI/CLI application to use [Library Genesis](https://libgen.is/).
