@@ -1,7 +1,5 @@
 # <img src="res/hungary.png" height="40">
 
-testing, testing...
-
 ## Contact
 
 You can reach me through [e-mail](mailto:gaaldavid[at]tuta.io?subject=[GitHub]%20general%20question) if you have any questions about my repositories or if you'd like to collaborate on something.
