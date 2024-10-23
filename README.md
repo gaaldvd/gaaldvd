@@ -31,6 +31,7 @@ I mainly focus on developing libraries and applications for various fields of ge
 ### P*rating :pirate_flag:
 
 - [palermo-grab](https://github.com/gaaldvd/palermo-grab): Download content from Teca Digitale (Biblioteca comunale di Palermo Leonardo Sciascia)
+- [Ripbox](https://github.com/gaaldvd/ripbox): Download music from YT
 
 #### Under development
 
