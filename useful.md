@@ -13,6 +13,7 @@
 
 ## references, snippets, scripts
 
+- [arch cleanup script](useful/scripts/cleanup.sh)
 - [ascii script](useful/scripts/ascii.py) to list valid ASCII characters
 - [Qt snippets (local)](useful/Qt.md)
 - [SQL reference (local)](useful/SQL.md)
