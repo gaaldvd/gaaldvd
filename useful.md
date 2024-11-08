@@ -13,6 +13,8 @@
 
 ## references, snippets, scripts
 
+- [useful linux commands](useful/linux.md)
+- [useful git commands](useful/git.md)
 - [arch cleanup script](useful/scripts/cleanup.sh)
 - [ascii script](useful/scripts/ascii.py) to list valid ASCII characters
 - [Qt snippets (local)](useful/Qt.md)
