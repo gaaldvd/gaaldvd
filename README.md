@@ -21,7 +21,7 @@ I mainly focus on developing libraries and applications for various fields of ge
 
 ## etc
 
-- [Useful things (config files, references, tools and such)](useful.md)
+- [Useful things](useful.md): a collection of links, references, snippets, config files, scripts and such
 
 ### Programming tutorials
 

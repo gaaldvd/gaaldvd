@@ -13,12 +13,16 @@
 
 ## references, snippets, scripts
 
+- for python apps running in a pipenv
+  - [setup](useful/scripts/setup.sh)
+  - [start](useful/scripts/start.sh)
+  - [update](useful/scripts/update.sh)
 - [useful linux commands](useful/linux.md)
 - [useful git commands](useful/git.md)
 - [arch cleanup script](useful/scripts/cleanup.sh)
 - [ascii script](useful/scripts/ascii.py) to list valid ASCII characters
-- [Qt snippets (local)](useful/Qt.md)
-- [SQL reference (local)](useful/SQL.md)
+- [Qt snippets](useful/Qt.md)
+- [SQL reference](useful/SQL.md)
 
 ## tutorials, guides
 

@@ -20,7 +20,7 @@ git rm -r --cached <folder>
 THE_TIME='2019-03-30T8:20:00 +0200' GIT_AUTHOR_DATE=$THE_TIME GIT_COMMITTER_DATE=$THE_TIME git commit -m 'commit message here'
 ```
 
-# update commits:
+## update commits:
 
 ```
 git filter-branch -f --env-filter "GIT_AUTHOR_NAME='AUTHOR'; GIT_AUTHOR_EMAIL='EMAIL'; GIT_COMMITTER_NAME='COMMITER'; GIT_COMMITTER_EMAIL='EMAIL';" HEAD
