@@ -2,9 +2,8 @@
 
 # import statements...
 
+
 # functions
-
-
 def print_ascii():
     """Print ASCII characters."""
     print("-----------------\nASCII characters:\n-----------------")
