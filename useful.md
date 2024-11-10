@@ -20,7 +20,7 @@
 - [useful linux commands](useful/linux.md)
 - [useful git commands](useful/git.md)
 - [arch cleanup script](useful/scripts/cleanup.sh)
-- [ascii script](useful/scripts/ascii.py) to list valid ASCII characters
+- [python script template to print ASCII characters](useful/scripts/py_template_ascii.py) to list valid ASCII characters
 - [Qt snippets](useful/Qt.md)
 - [SQL reference](useful/SQL.md)
 
