@@ -13,7 +13,7 @@
 
 ## references, snippets, scripts
 
-- for python apps running in a pipenv
+- For Python apps running in a pipenv
   - [setup](useful/scripts/setup.sh)
   - [start](useful/scripts/start.sh)
   - [update](useful/scripts/update.sh)
@@ -26,6 +26,7 @@
 
 ## tutorials, guides
 
+- [SSH guides](useful/ssh.md)
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - [bash](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 - [json](https://www.json.org/json-en.html)
