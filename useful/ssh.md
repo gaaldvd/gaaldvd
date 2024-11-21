@@ -18,7 +18,7 @@ Test connection: `ssh -T git@github.com`
 
 Switch remote URLs of repo: `git remote set-url origin git@github.com:OWNER/REPOSITORY.git`
 
-### Signing commits [GitHub docs](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification#ssh-commit-signature-verification)
+### [Signing commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification#ssh-commit-signature-verification)
 
 Add public key as signing key (through browser or CLI).
 
