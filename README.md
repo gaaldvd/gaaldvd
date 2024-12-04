@@ -27,13 +27,12 @@ I mainly focus on developing libraries and applications for various fields of ge
 
 - [programming-in-c](https://github.com/gaaldvd/programming-in-c): Exercises from Stephen G. Kochan's book Programming in C, 3rd Edition (2005)
 
-
 ### P*rating :pirate_flag:
 
+- [libgentools](https://github.com/gaaldvd/libgentools): A Python library for downloading content from [Library Genesis](https://libgen.is/).
 - [palermo-grab](https://github.com/gaaldvd/palermo-grab): Download content from Teca Digitale (Biblioteca comunale di Palermo Leonardo Sciascia)
 - [Ripbox](https://github.com/gaaldvd/ripbox): Download music from YT
 
 #### Under development
 
-- [libgen-tools](https://github.com/gaaldvd/libgen-tools): A Python library for downloading content from [Library Genesis](https://libgen.is/).
 - [libgenx](https://github.com/gaaldvd/libgenx): A simple GUI/CLI application to use [Library Genesis](https://libgen.is/).
