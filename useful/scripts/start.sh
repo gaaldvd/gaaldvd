@@ -1,6 +1,5 @@
 # validate options
-if [ "$#" -eq 0 ]
-  then
+if [ "$#" -eq 0 ]; then
     echo "> Usage: $0 [-c/-g]"
     exit 1
 fi
