@@ -8,20 +8,21 @@ Find me @ [stackoverflow](https://stackoverflow.com/users/19555447/gaaldvd), [re
 
 ## Geology
 
-I mainly focus on developing libraries and applications for various fields of geoscience, from simple solutions to more complex software.
+Libraries and applications for various fields of geoscience, from simple solutions to more complex software.
 
 ### Upcoming projects
 
-- [quakelib](https://github.com/gaaldvd/quakelib): A Python library for collecting and managing earthquake data from various providers.
+- [quakelib](https://github.com/gaaldvd/quakelib): A Python library for collecting and managing earthquake data from various providers. (planning phase)
   - Real-time data (planning phase)
-  - [Historical earthquakes](https://github.com/gaaldvd/quakelib#historical-data) (development phase)
+  - [Historical earthquakes](https://github.com/gaaldvd/quakelib#historical-data) (planning phase)
 - [quakexplore](https://github.com/gaaldvd/quakexplore): Earthquake data exploration tool (GUI).
+- [roserax](https://github.com/gaaldvd/roserax): A GUI application for managing reserve portfolios based on [RoseRA](https://www.roseassoc.com/rosera-prospect-risk-assessment) files. (development phase)
 - A Python library for the convenient access of [The Paleobiology Database](https://paleobiodb.org/) API.
 - A paleogeography reconstruction tool based primarily on paleontological data.
 
 ## etc
 
-- [Useful things](useful.md): a collection of links, references, snippets, config files, scripts and such
+- [Useful things](useful.md): a collection of links, references, snippets, configs, scripts and such
 
 ### Programming tutorials
 
@@ -31,7 +32,6 @@ I mainly focus on developing libraries and applications for various fields of ge
 
 - [libgentools](https://github.com/gaaldvd/libgentools): A Python library for downloading content from [Library Genesis](https://libgen.is/).
 - [palermo-grab](https://github.com/gaaldvd/palermo-grab): Download content from Teca Digitale (Biblioteca comunale di Palermo Leonardo Sciascia)
-- [Ripbox](https://github.com/gaaldvd/ripbox): Download music from YT
 
 #### Under development
 
