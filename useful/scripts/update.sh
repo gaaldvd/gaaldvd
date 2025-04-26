@@ -20,16 +20,16 @@ if [ "$git_up" = "y" ] || [ "$git_up" = "Y" ]
 then
   echo "> Updating git repository..."
   git pull
+  echo "> Git repository is up to date."
 fi
-echo "> Git repository is up to date."
 
 # update env
 if [ "$pip_up" = "y" ] || [ "$pip_up" = "Y" ]
 then
   echo "> Updating python environment..."
   pipenv update
+  echo "> Python environment is up to date."
 fi
-echo "> Python environment is up to date."
 
 # verify packages
 echo "> Pipfile verification... $(pipenv verify)"

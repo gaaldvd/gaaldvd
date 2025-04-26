@@ -15,6 +15,6 @@ while getopts "cg" flag; do
   esac
 done
 
-# start script
+# start application
 clear
 pipenv run python script_$mode.py

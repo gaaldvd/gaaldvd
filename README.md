@@ -24,6 +24,8 @@ Libraries and applications for various fields of geoscience, from simple solutio
 
 - [Useful things](useful.md): a collection of links, references, snippets, configs, scripts and such
 
+- [arxive](https://github.com/gaaldvd/arxive): Create backups of your data with [rsync](https://rsync.samba.org/). (development phase)
+
 ### Programming tutorials
 
 - [programming-in-c](https://github.com/gaaldvd/programming-in-c): Exercises from Stephen G. Kochan's book Programming in C, 3rd Edition (2005)
@@ -33,6 +35,4 @@ Libraries and applications for various fields of geoscience, from simple solutio
 - [libgentools](https://github.com/gaaldvd/libgentools): A Python library for downloading content from [Library Genesis](https://libgen.is/).
 - [palermo-grab](https://github.com/gaaldvd/palermo-grab): Download content from Teca Digitale (Biblioteca comunale di Palermo Leonardo Sciascia)
 
-#### Under development
-
-- [libgenx](https://github.com/gaaldvd/libgenx): A simple GUI/CLI application to use [Library Genesis](https://libgen.is/).
+- [libgenx](https://github.com/gaaldvd/libgenx): A simple GUI/CLI application to use [Library Genesis](https://libgen.is/). (development phase)
