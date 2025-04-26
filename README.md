@@ -4,6 +4,8 @@
 
 You can reach me through [e-mail](mailto:gaaldavid[at]tuta.io?subject=[GitHub]%20general%20question) if you have any questions about my repositories or if you'd like to collaborate on something.
 
+My collection of [useful things](useful.md): links, references, snippets, configs, scripts and such
+
 Find me @ [stackoverflow](https://stackoverflow.com/users/19555447/gaaldvd), [replit](https://replit.com/@gaaldvd)
 
 ## Geology
@@ -22,8 +24,6 @@ Libraries and applications for various fields of geoscience, from simple solutio
 
 ## etc
 
-- [Useful things](useful.md): a collection of links, references, snippets, configs, scripts and such
-
 - [arxive](https://github.com/gaaldvd/arxive): Create backups of your data with [rsync](https://rsync.samba.org/). (development phase)
 
 ### Programming tutorials
@@ -34,5 +34,4 @@ Libraries and applications for various fields of geoscience, from simple solutio
 
 - [libgentools](https://github.com/gaaldvd/libgentools): A Python library for downloading content from [Library Genesis](https://libgen.is/).
 - [palermo-grab](https://github.com/gaaldvd/palermo-grab): Download content from Teca Digitale (Biblioteca comunale di Palermo Leonardo Sciascia)
-
 - [libgenx](https://github.com/gaaldvd/libgenx): A simple GUI/CLI application to use [Library Genesis](https://libgen.is/). (development phase)
