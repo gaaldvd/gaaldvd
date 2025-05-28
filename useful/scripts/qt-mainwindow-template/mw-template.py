@@ -1,13 +1,7 @@
-# Qt snippets
-
-`pyside6-uic mainwindow.ui -o MainWindow.py`
-
-## basic setup
-
-```python
 import sys
 from PySide6 import QtWidgets
 from PySide6.QtCore import Slot
+from PySide6.QtGui import QAction, QIcon
 from ui.MainWindow import Ui_MainWindow  # Qt Designer UI files in /ui
 
 
@@ -17,42 +11,16 @@ class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
 
         self.setupUi(self)
 
-        # [...]
-
-    # SLOTS
-
-    @Slot()
-    # def slot_action() [...]
-
-
-app = QtWidgets.QApplication(sys.argv)
-
-window = MainWindow()
-window.show()
-app.exec()
-```
-
-## toolbar
-
-```python
-import sys
-from PySide6 import QtWidgets
-from PySide6.QtCore import Slot
-from PySide6.QtGui import QAction, QIcon
-
-
-# main window class
-    # init
-
-        spacer = QtWidgets.QWidget()  # spacer for widgets
+        # Spacer for widgets
+        spacer = QtWidgets.QWidget()
         spacer.setSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
 
         # ----- TOOLBAR -----
 
         # CONFIG
-        about_action = QAction(QIcon('ui/configure.svg'), "Configuration", self)
-        # config_action.triggered.connect(self.config_action)
-        self.toolbar.addAction(about_action)
+        config_action = QAction(QIcon('ui/configure.svg'), "Configuration", self)
+        config_action.triggered.connect(self.config_action)
+        self.toolbar.addAction(config_action)
 
         # <--- left side
         self.toolbar.addWidget(spacer)
@@ -68,10 +36,41 @@ from PySide6.QtGui import QAction, QIcon
         exit_action.triggered.connect(self.exit_action)
         self.toolbar.addAction(exit_action)
 
-    @Slot()  # exit
-    def exit_action(self): sys.exit('Goodbye!')
+        # -------------------
+
+        # [...]
+
+    # -----------------
+    # ----- SLOTS -----
+    # -----------------
+
+    # ----- TOOLBAR -----
+
+    @Slot()  # config
+    def config_action(self): print("Configuration...")
 
     @Slot()   # about
-    def about_action(self): print('About...')
+    def about_action(self): print("About...")
 
-```
+    @Slot()  # exit
+    def exit_action(self): sys.exit("Goodbye!")
+
+    # -------------------
+
+    # [...]
+
+    @Slot()
+    def some_slot(self): pass
+
+
+def main():
+
+    # Setting up UI...
+    app = QtWidgets.QApplication(sys.argv)
+    window = MainWindow()
+    window.show()
+    app.exec()
+
+
+if __name__ == '__main__':
+    main()

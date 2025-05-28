@@ -21,8 +21,8 @@
 - [useful git commands](useful/git.md)
 - [arch cleanup script](useful/scripts/cleanup.sh)
 - [python script template](useful/scripts/py_template_ascii.py) to list valid ASCII characters
-- [Qt snippets](useful/Qt.md)
 - [SQL reference](useful/SQL.md)
+- [Qt main window app template (pyside6)](useful/scripts/qt-mainwindow-template)
 
 ## tutorials, guides
 
