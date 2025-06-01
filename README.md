@@ -32,6 +32,6 @@ Libraries and applications for various fields of geoscience, from simple solutio
 
 ### P*rating :pirate_flag:
 
-- [libgentools](https://github.com/gaaldvd/libgentools): A Python library for downloading content from [Library Genesis](https://libgen.is/).
+- [libgentools](https://github.com/gaaldvd/libgentools): A Python library for downloading content from [Library Genesis](https://libgen.is/)
 - [palermo-grab](https://github.com/gaaldvd/palermo-grab): Download content from Teca Digitale (Biblioteca comunale di Palermo Leonardo Sciascia)
 - [libgenx](https://github.com/gaaldvd/libgenx): A simple GUI/CLI application to use [Library Genesis](https://libgen.is/). (development phase)
