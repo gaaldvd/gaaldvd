@@ -2,7 +2,7 @@
 
 ## Contact
 
-You can reach me through [e-mail](mailto:gaaldavid[at]tuta.io?subject=[GitHub]%20general%20question) if you have any questions about my repositories or if you'd like to collaborate on something.
+You can reach me through [e-mail](mailto:gaaldvd[at]proton.me?subject=[GitHub]%20general%20question) if you have any questions about my repositories or if you'd like to collaborate on something.
 
 My collection of [useful things](useful.md): links, references, snippets, configs, scripts and such
 
