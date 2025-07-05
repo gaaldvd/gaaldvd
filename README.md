@@ -10,7 +10,7 @@ Find me @ [stackoverflow](https://stackoverflow.com/users/19555447/gaaldvd), [re
 
 ## Geology
 
-Libraries and applications for various fields of geoscience, from simple solutions to more complex software.
+Libraries and applications for various fields of geoscience.
 
 ### Upcoming projects
 
@@ -24,7 +24,7 @@ Libraries and applications for various fields of geoscience, from simple solutio
 
 ## etc
 
-- [arxive](https://github.com/gaaldvd/arxive): Create backups of your data with [rsync](https://rsync.samba.org/). (development phase)
+- [arxive](https://github.com/gaaldvd/arxive): A simple CLI/GUI frontend for [rsync](https://rsync.samba.org/). (development phase)
 
 ### Programming tutorials
 
